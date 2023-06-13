@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 import plotly.graph_objects as go
 
-df = pd.read_csv('heart stroke data.csv')
+df = pd.read_csv('stroke.csv')
 
 # Drop rows with missing values
 df = df.dropna()
