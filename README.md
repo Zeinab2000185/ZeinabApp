@@ -1,7 +1,7 @@
 # ZeinabApp
 # Stroke Prediction Dataset
 
-This dataset is sourced from Kaggle and contains anonymized Electronic Health Records (EHRs) for a dataset of slightly over 5000 individuals. The goal of this dataset is to study the factors that may or may not contribute to the likelihood of someone experiencing a heart stroke.
+This dataset is sourced from Kaggle and contains anonymized Electronic Health Records (EHRs) for a dataset of slightly over 5000 individuals. The goal of this dataset is to study the factors that may or may not contribute to the likelihood of someone experiencing a stroke.
 
 ## Dataset Description
 
@@ -11,7 +11,7 @@ Please note that due to the sensitive nature of EHRs, the dataset has been anony
 
 ## Objective
 
-The objective of this analysis is to explore the relationships and patterns within the dataset to gain insights into the factors that may influence the occurrence of a heart stroke. By understanding these factors, we aim to contribute to the development of effective prevention and intervention strategies for cardiovascular health.
+The objective of this analysis is to explore the relationships and patterns within the dataset to gain insights into the factors that may influence the occurrence of a stroke. By understanding these factors, we aim to contribute to the development of effective prevention and intervention strategies.
 
 ## Data Analysis and Visualization
 
