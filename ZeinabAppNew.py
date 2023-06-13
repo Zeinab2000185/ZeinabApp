@@ -17,7 +17,7 @@ st.title("Stroke Dataset Dashboard")
 
 # Add overview section
 st.header("Overview")
-st.write("This dataset contains several predictors that may or not be associated with the likelihood of having a heart stroke, which are: Gender, Age, Hypertension, Heart Disease, Work Type, Residence Type, Marital Status, Smoking Status, average glucose, and BMI.")
+st.write("This dataset contains several predictors that may or not be associated with the likelihood of having a stroke, which are: Gender, Age, Hypertension, Heart Disease, Work Type, Residence Type, Marital Status, Smoking Status, Average Glucose, and BMI.")
 
 # Create tabs
 tabs = ["Gender", "Age", "Hypertension", "Heart Disease", "Work Type", "Residence Type", "Marital Status", "Smoking Status", "Average Glucose Level", "BMI"]
